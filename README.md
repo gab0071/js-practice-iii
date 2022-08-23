@@ -12,7 +12,7 @@
 
 # Segundo ejercicio 2️⃣
 
-## Palabras Invertidas
+## ``Palabras Invertidas``
 
 ## Crea un programa que dado un string, devuelva un array de strings con cada palabra del string original, pero con el orden invertido. Para ello deberás completar el código dentro de cada función.
 
